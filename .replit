@@ -1,0 +1,2 @@
+run='mcs -unsafe -out:hash.exe Program.cs && mono hash.exe'
+language = "csharp"
