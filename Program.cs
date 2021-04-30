@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 
 namespace L6Hash
 {
@@ -36,7 +36,7 @@ namespace L6Hash
     public int HashFunction (string name) {
       
       // You need to implement a proper HashFucntion here!
-      Console.WriteLine ("HashFunction() returns 0");
+      Console.WriteLine ("TODO: Implement HashFunction() - returns 0");
       return 0;
     }
 
@@ -90,5 +90,6 @@ namespace L6Hash
             // Extension 1: Delete an item from the hash table
 
             // Extension 2: Rehash the table
+        }
     }
 }
